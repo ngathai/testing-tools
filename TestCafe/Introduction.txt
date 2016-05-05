@@ -1,0 +1,1 @@
+TestCafe tool is used for testing, it helps create test case by recording the real actions then we can run again later.
