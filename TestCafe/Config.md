@@ -1,5 +1,1 @@
-## Step 1:
-- Run terminal: ./testcafe.sh
-## Step 2:
-- Click Setting icon at left-bottom corner
-- Config something there if needed
+
