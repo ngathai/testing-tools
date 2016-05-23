@@ -1,0 +1,2 @@
+- Thread Group > Add > Config Element > HTTP Authorization Manager <br>
+- Enter BaseURL, username, password.
